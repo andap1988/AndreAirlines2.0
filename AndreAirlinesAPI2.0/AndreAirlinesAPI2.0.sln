@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AndreAirlinesAPI2.0", "AndreAirlinesAPI2.0.csproj", "{ADB278A8-7081-41DE-96DB-FD3156A2F5B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Report", "..\Report\Report.csproj", "{E1CA64C7-1514-4BAD-B367-966350FBF388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB278A8-7081-41DE-96DB-FD3156A2F5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB278A8-7081-41DE-96DB-FD3156A2F5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB278A8-7081-41DE-96DB-FD3156A2F5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB278A8-7081-41DE-96DB-FD3156A2F5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1CA64C7-1514-4BAD-B367-966350FBF388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CA64C7-1514-4BAD-B367-966350FBF388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CA64C7-1514-4BAD-B367-966350FBF388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CA64C7-1514-4BAD-B367-966350FBF388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD5BE72-4AD0-4E7D-80BD-1B98464F1267}
+	EndGlobalSection
+EndGlobal
